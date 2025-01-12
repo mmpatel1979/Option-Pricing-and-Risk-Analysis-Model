@@ -1,1 +1,1 @@
-# Paramaters Inputs
+# How to Use HM and MC
